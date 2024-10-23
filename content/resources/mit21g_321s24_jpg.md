@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024/mit21g_321s24.jpg
+file: /ol-ocw-studio-app/courses/21g-321-childhood-and-youth-in-french-and-francophone-cultures-spring-2024/mit21g_321s24.jpg
 file_size: 2251888
 file_type: image/jpeg
 image_metadata:
