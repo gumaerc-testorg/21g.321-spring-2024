@@ -33,7 +33,7 @@ Françoise Dolto, *La Cause des enfants* (1985), pp. 474–476. ISBN : 978226617
 
 #### Classe 3 : Entre deux âges
 
-Arthur Rimbaud, [*Roman*](https://fr.wikisource.org/wiki/Po%C3%A9sies_\(Rimbaud\)/%C3%A9d._Vanier,_1895/Roman) (1870).
+Arthur Rimbaud, [*Roman*](https://arthurvoonwenghong.wordpress.com/2006/09/11/arthur-rimbaud-roman-romance/) (1870).
 
 Raymond Radiguet, *Le Diable au corps* (1923). ISBN : 9782266011396. Extrait : « Moi que redoutais par-dessus tout le moment … lequel était le pire? » 
 
