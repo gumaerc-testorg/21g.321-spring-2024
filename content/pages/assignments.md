@@ -37,30 +37,30 @@ François Weyergans, *La Vie d’un bébé* (1986), pp. 211–216. Extrait : « 
 
 ### Question 2
 
-Arthur Rimbaud, [*Roman*](https://fr.wikisource.org/w/index.php?search=Rimbaud+Po%C3%A9sies+%C5%92uvres+Roman&title=Sp%C3%A9cial%3ARecherche&ns0=1&ns102=1&ns112=1) (1870) ; Raymond Radiguet, *Le Diable au corps* (1923). Extrait : « Moi que redoutais par-dessus tout le moment … lequel était le pire? »
+Arthur Rimbaud, {{% resource_link "cd40b017-ace5-4f40-8ce3-76cdf6d7a8d9" "*Roman*" %}} (1870) ; Raymond Radiguet, *Le Diable au corps* (1923). Extrait : « Moi que redoutais par-dessus tout le moment … lequel était le pire? »
 
 - Faut-il abaisser l’âge de la majorité ?
 
 ### Question 3
 
-Camara Laye, *L’Enfant noir* (1953), pp. 210–221 ; Annie Ernaux, *La Place* (1983), pp. 64–95. Extrait : « Enfant, quand je m’efforçais … ‘Nous, on n’a plus besoin de grand-chose.’ » ; Film : Lukas Dhont, [*Close*](https://www.allocine.fr/film/fichefilm_gen_cfilm=294372.html) (2022).
+Camara Laye, *L’Enfant noir* (1953), pp. 210–221 ; Annie Ernaux, *La Place* (1983), pp. 64–95. Extrait : « Enfant, quand je m’efforçais … ‘Nous, on n’a plus besoin de grand-chose.’ » ; Film : Lukas Dhont, {{% resource_link "82483387-166f-4469-ae03-f017d4afeec9" "*Close*" %}} (2022).
 
 - Grandir, est-ce trahir ses parents ?
 
 ### Question 4
 
-Anatole France, [*Le Livre de mon ami*](https://fr.wikisource.org/wiki/Page:Anatole_France_-_Le_Livre_de_mon_ami.djvu/43) (1885), pp. 35–43 ; Marie Desplechin, *Le Sac à dos d'Alphonse* (1993), pp. 17–19, 80–83, 92–95, et 104–105.
+Anatole France, {{% resource_link "d5871cae-1f2d-4c02-87db-948379d87ef7" "*Le Livre de mon ami*" %}} (1885), pp. 35–43 ; Marie Desplechin, *Le Sac à dos d'Alphonse* (1993), pp. 17–19, 80–83, 92–95, et 104–105.
 
 - L’enfance est-elle le meilleur moment de la vie ?
 
 ### Question 5
 
-Nathalie Sarraute, *Enfance* (1983) ; Hervé Guibert, *Mes Parents* (1986), pp. 32–35, 120–121 et 148–149 ; Benjamin Biolay, « Ton héritage » Album : La Superbe, 2009 \[[Lyrics](https://www.google.com/search?q=ton+heritage+lyrics)\]\[[YouTube](https://youtu.be/xtmVTfGJUzA?si=YyKo7Vw3vwVkkqNY)\].
+Nathalie Sarraute, *Enfance* (1983) ; Hervé Guibert, *Mes Parents* (1986), pp. 32–35, 120–121 et 148–149 ; Benjamin Biolay, « Ton héritage » Album : La Superbe, 2009 \[{{% resource_link "3cc69a92-b328-41ba-959f-b5af4e268922" "Lyrics" %}}\]\[{{% resource_link "40479354-0c75-483f-ada3-71f70edaaa50" "YouTube" %}}\].
 
 - Plaidez pour le fait de ne pas avoir d’enfant.
 
 ### Question 6
 
-Marcel Proust, *Du côté de chez Swann* (1913). Extrait : « Quand d’un passé ancien rien ne subsiste … de ma tasse de thé. » ; Barbara, « Mon enfance » Album : Le Soleil Noir, 1968 \[[Lyrics](https://www.google.com/search?q=Barbara%2C+%C2%AB+Mon+enfance+%C2%BB+lyrics)\] \[[YouTube](https://youtu.be/T4pS5XAnzh4?si=WmWF8l8rPdykFTD9)\] ; Philippe Forest, *L’Enfant éternel* (1997), pp. 228–229, 383–385, 392.
+Marcel Proust, *Du côté de chez Swann* (1913). Extrait : « Quand d’un passé ancien rien ne subsiste … de ma tasse de thé. » ; Barbara, « Mon enfance » Album : Le Soleil Noir, 1968 \[{{% resource_link "55e33607-370a-4d44-ab72-9d90ad78e84e" "Lyrics" %}}\] \[{{% resource_link "194a633b-4889-4649-a3a3-e3f68b1d8bb9" "YouTube" %}}\] ; Philippe Forest, *L’Enfant éternel* (1997), pp. 228–229, 383–385, 392.
 
 - Comparez la vision du retour à l’enfance chez Proust et chez Barbara.
